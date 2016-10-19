@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Recipe } from '../recipes/recipe';
+import { Ingredient } from '../shared/ingredient';
 
 @Component({
   selector: 'app-shopping-list-add',
