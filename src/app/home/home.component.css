@@ -1,0 +1,13 @@
+div.logo {
+	display: block;
+    margin: auto;
+    background-image: url(http://www.entornointeligente.com/images-noticias/2015/06/Ense-a-a-tus-nietos-a-comer-saludable.jpg);
+    background-size: 100% 150%;
+    padding:0px;
+    height: 100%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
